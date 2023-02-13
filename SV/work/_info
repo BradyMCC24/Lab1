@@ -1,0 +1,94 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bmccu11/Downloads/dldspring2023-main/dldspring2023-main/Lab1/SV
+T_opt
+!s110 1676317751
+V6_d?<P7Ae3ojaKAdC4N2M2
+04 2 4 work tb fast 0
+=1-00be43904ff0-63ea9436-35e-4d10
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+vrca4
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1676317750
+!i10b 1
+!s100 <:iE<6i>P74A7L<Dmj8Ae1
+IkVY=k9?RoIeSjJWlFL?8X1
+S1
+R0
+w1676317626
+8RCA4.sv
+FRCA4.sv
+!i122 0
+L0 1 10
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.3;73
+r1
+!s85 0
+31
+Z6 !s108 1676317750.000000
+Z7 !s107 silly.sv|silly_tb.sv|RCA4.sv|
+Z8 !s90 RCA4.sv|silly_tb.sv|silly.sv|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vsilly
+R2
+R3
+!i10b 1
+!s100 MJJ?VCYn=8<H0A_le=Z^`2
+IP94D<A6A<T=D1RH3N_AcS0
+S1
+R0
+w1676317627
+8silly.sv
+Fsilly.sv
+!i122 0
+L0 1 8
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+vtb
+R2
+R3
+!i10b 1
+!s100 geIEHY4^z=F6Sj5O_Y7Fb1
+IO7MOHz2f[oW2;_G4fe@Y:3
+S1
+R0
+w1676317625
+8silly_tb.sv
+Fsilly_tb.sv
+!i122 0
+L0 2 67
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
